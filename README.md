@@ -1,9 +1,12 @@
-
-
-# shop-shop
+# shop-shop-Redux
 
 ## Description
-first MERN application
+This app was converted from using React global state to a redux store.
+
+<img src="./media/Logout in single item view cart remove add.gif">
+
+<img src="./media/Signup and purchase.gif">
+
 
 ## Table of Contents
 - [Story](#Story)
@@ -14,31 +17,13 @@ first MERN application
 
 
 ## Story
-
+This app was converted from using React global state to a redux store.
 
 
 ## Installation
 Install in your terminal:
   <br>
-* Root: `npm install`
-  <br>
-* Client: `npm run test`
-  <br>
-* Server: `npm install stripe`
-  <br>
-* Client: `npm install @stripe/stripe-js`
-  <br>
-* Client: `npm install @apollo/react-hooks`
-  <br>
-* 
-  <br>
-* 
-  <br>
-* 
-  <br>
-* 
-  <br>
-* 
+* Client: `npm install @reduxjs/toolkit`
   <br>
 
 Software download
@@ -47,13 +32,9 @@ Software download
 
 ## Usage
 
-* Root: `npm run seed`
 * Root: `npm run develop`
-* Note: development build is not optimized, to optimize, create a production build with `npm run build`
 * Note: Stripes fake credit card details for testing is `4242 4242 4242 4242`
-* 
-* 
-* 
+
 
 ## Authors
 
@@ -62,24 +43,10 @@ Software download
 ## Resources
 Documentation:
   <br>
-* <a href="https://www.npmjs.com/package/dotenv">DotEnv</a> Secure your password to your database.
-  <br>
-* <a href="https://expressjs.com/">Express.js</a> A back end web application framework for Node.js
-  <br>
 * <a href="https://nodejs.org/en/docs/">Node.js</a> Back-end JavaScript runtime environment
   <br>
-* <a href="http://sequelize.org/">Sequelize/ORM</a> Object Realational Mapping
-  <br>
-* <a href="https://www.npmjs.com/package/mysql2">MySQL</a> MySQL client for Node.js with focus on performance. Supports prepared statements.
-  <br>
-* <a href="https://www.npmjs.com/package/connect-session-sequelize">connect-session-sequelize</a> connect-session-sequelize is a SQL session store using Sequelize.js.
-  <br>
-* <a href="https://handlebarsjs.com/">handlebars.js</a> Minimal templating on steroids
-  <br>
-* <a href="https://www.npmjs.com/package/express-session">express-session.js</a> This is a Node.js module available through the npm registry that lets you create a session middleware.
-* <a href="https://www.npmjs.com/package/bcrypt">node.bcrypt.js</a> A library to help you hash passwords.
-* <a href="https://www.npmjs.com/package/uuid">uuid</a> Universally unique identifier (uuid) used to create unique browser sessions in our webpage.<br>
-* <a href="https://jqueryui.com/datepicker/">Date Picker</a> Calendar pop up for choosing a show date.
+* <a href="https://redux.js.org/">Redux</a> Object Realational Mapping
+
 
 ## Testing
 
