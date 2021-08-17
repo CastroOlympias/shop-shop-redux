@@ -2,6 +2,7 @@
 
 ## Description
 This app was converted from using React global state to a redux store.
+<a href="https://castro-shop-redux.herokuapp.com/">See Heroku app</a>
 
 <img src="./media/Logout in single item view cart remove add.gif">
 
